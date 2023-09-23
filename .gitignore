@@ -175,6 +175,10 @@ pyrightconfig.json
 .DS_Store
 ._.DS_Store
 **/.DS_Store
+<<<<<<< HEAD
 **/._.DS_Store
 
 
+=======
+**/._.DS_Store
+>>>>>>> 720bfea (Removing .DSStore)
