@@ -171,15 +171,10 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-
-<<<<<<< HEAD
 # Ignore Mac DS_Store files
 .DS_Store
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
 
-=======
 
-**/.DS_Store
->>>>>>> 10275e8 (added gitIgnore)
