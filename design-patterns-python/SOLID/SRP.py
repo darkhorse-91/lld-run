@@ -45,8 +45,3 @@ PersistenceManager.save_to_file(j, file)
 with open (file) as fh:
     print(fh.read())
 
-# Whats wrong here
-# Now Our Journal not only read write entries it also stores and do network calls
-# so it actually has two kind of responsibilities.
-# 1. Journal CRUD
-# 2. Persistence
