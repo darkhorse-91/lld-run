@@ -1,6 +1,10 @@
 # ISP -> Interface Segregation Principle
 
-#SPlit interfaces
+# Split interfaces into as much as smaller possible so that classes which are 
+# implementing those interfaces should not have to implement more than what they need to.
+
+# YAGNI - You ain't going to need it
+
 from abc import abstractmethod
 
 
